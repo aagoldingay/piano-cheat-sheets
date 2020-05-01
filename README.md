@@ -16,10 +16,10 @@ Piano Basics:
 ├── README.md
 |
 ├── pdf
-|	└── major_scales.pdf
+|  └── major_scales.pdf
 |
 └── src
-	└── major_scales.mscz
+  └── major_scales.mscz
 ```
 
 ## Contributing
