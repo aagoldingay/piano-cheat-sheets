@@ -14,6 +14,7 @@ Piano Basics:
 .
 |
 ├── README.md
+├── .gitignore
 |
 ├── pdf
 |   └── major_scales.pdf
