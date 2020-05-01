@@ -2,7 +2,7 @@
 
 Useful piano basics designed to be easily consumed by begineers as a helpful tool for practicing.
 
-*NOTE:* I am a beginner myself, so this project will update as I progress, so please raise issues if you see anything wrong or have any suggestions!
+*NOTE:* I am a beginner myself, so this project will update as I progress. Please raise issues if you see anything wrong or have any suggestions!
 
 Piano Basics:
 - Scales
